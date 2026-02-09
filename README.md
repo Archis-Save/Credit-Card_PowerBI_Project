@@ -1,8 +1,8 @@
 # Credit-Card_PowerBI_Project 
 Screenshort of Dashboard:-
-<b>
+<br><b>
 Credit_Card_Customer_Report
 ![1](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Customer_Report2.PNG)  <br>
-<br>
+<br><b>
 Credit_Card_Transaction_Report
 ![2](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Transaction_Report3.PNG)

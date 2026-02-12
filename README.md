@@ -10,7 +10,7 @@ The objective is to provide meaningful insights into:
 - Income segmentation
 - Spending behavior
 - Revenue trend
-- Card type performance
+- Card type performance  
 The dashboards are fully interactive and allow filtering by Gender, Age Group, Income Group, Card Type, Week, and Spending Category.
 
 Dashboard 1 – Credit Card Customer Report

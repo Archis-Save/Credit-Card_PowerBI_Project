@@ -113,7 +113,7 @@ Based on analysis, the following recommendations can be provided:
 - Documentation (README)
 - Interactive filtering and professional UI design
 
-<b>Conclusion</b>
+<B>Conclusion</B>
 
 This project demonstrates the ability to:
 - Clean and model relational datasets

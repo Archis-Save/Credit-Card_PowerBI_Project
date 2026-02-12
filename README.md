@@ -13,7 +13,7 @@ The objective is to provide meaningful insights into:
 
 The dashboards are fully interactive and allow filtering by Gender, Age Group, Income Group, Card Type, Week, and Spending Category.
 
-<b>Dashboard 1 – Credit Card Customer Report</b>
+<h3><b>Dashboard 1 – Credit Card Customer Report</b></h3>
 
 <b>Objective
 
@@ -39,7 +39,7 @@ To analyze customer demographics and segmentation patterns to identify high-valu
 - Certain income segments contribute disproportionately to total income.
 - Satisfaction levels vary across income categories.
 
-<b>Dashboard 2 – Credit Card Transaction Report</b>
+<h3><b>Dashboard 2 – Credit Card Transaction Report</b></h3>
 
 <b>Objective</b>
 

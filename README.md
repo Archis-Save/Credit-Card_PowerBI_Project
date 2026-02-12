@@ -1,6 +1,7 @@
 # Credit-Card_PowerBI_Project 
 
 <b>Project Overview</b>
+
 This project consists of two interactive Power BI dashboards developed to analyze Credit Card Customer Data and Credit Card Transaction Data.
 
 The objective is to provide meaningful insights into:

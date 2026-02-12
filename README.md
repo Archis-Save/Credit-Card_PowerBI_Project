@@ -119,7 +119,7 @@ This project demonstrates the ability to:
 - Provide strategic recommendations
 
 Screenshort of Dashboard:-
-<br>
-![Credit_Card_Customer_Report](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Customer_Report2.PNG)  <br>
-<br>
-![Credit_Card_Transaction_Report](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Transaction_Report3.PNG)
+<br>Credit_Card_Customer_Report
+![1](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Customer_Report2.PNG)  <br>
+<br>Credit_Card_Transaction_Report
+![2](https://github.com/Archis-Save/Credit-Card_PowerBI_Project/blob/main/Credit_Card_Transaction_Report3.PNG)

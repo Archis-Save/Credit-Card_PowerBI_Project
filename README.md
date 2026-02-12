@@ -1,7 +1,6 @@
 # Credit-Card_PowerBI_Project 
 
 <b>Project Overview</b>
-
 This project consists of two interactive Power BI dashboards developed to analyze Credit Card Customer Data and Credit Card Transaction Data.
 
 The objective is to provide meaningful insights into:
@@ -16,6 +15,7 @@ The dashboards are fully interactive and allow filtering by Gender, Age Group, I
 <b>Dashboard 1 – Credit Card Customer Report</b>
 
 <b>Objective
+
 To analyze customer demographics and segmentation patterns to identify high-value customer groups.
 
 <b>Key Metrics</b>
@@ -41,6 +41,7 @@ To analyze customer demographics and segmentation patterns to identify high-valu
 <b>Dashboard 2 – Credit Card Transaction Report</b>
 
 <b>Objective</b>
+
 To analyze spending behavior, transaction frequency, and revenue performance.
 
 <b>Key Metrics</b>
@@ -96,6 +97,7 @@ To analyze spending behavior, transaction frequency, and revenue performance.
 - Maintaining proper relationships between customer and transaction tables.
 
 <b>Business Recommendations</b>
+
 Based on analysis, the following recommendations can be provided:
 - Target high-income age groups with premium credit card upgrades.
 - Focus marketing efforts on high-spending categories.
@@ -111,6 +113,7 @@ Based on analysis, the following recommendations can be provided:
 - Interactive filtering and professional UI design
 
 <b>Conclusion</b>
+
 This project demonstrates the ability to:
 - Clean and model relational datasets
 - Build advanced DAX measures

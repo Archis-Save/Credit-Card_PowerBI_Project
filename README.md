@@ -15,7 +15,7 @@ The dashboards are fully interactive and allow filtering by Gender, Age Group, I
 
 <h3><b>Dashboard 1 – Credit Card Customer Report</b></h3>
 
-<b>Objective
+<b>Objective</b>
 
 To analyze customer demographics and segmentation patterns to identify high-value customer groups.
 
